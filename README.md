@@ -17,4 +17,7 @@ BASE DE DATOS
 ![image](https://github.com/josueleonn/projecthotel/assets/147575712/fea94472-b07c-4bbe-b81e-c18eb7f4b7b7)
 ![image](https://github.com/josueleonn/projecthotel/assets/147575712/684139e2-dfea-4b9c-877c-4a6003edffb4)
 
+Probando la conexion de la base de datos con un GET en el localhost
+
+![image](https://github.com/josueleonn/projecthotel/assets/147575712/8df4ade6-a888-4409-a16c-61684b21e3ed)
 
