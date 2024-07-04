@@ -8,3 +8,13 @@ En el archivo pom.xml se necesita agregar la dependencia del conector de MySQL p
 
 ![image](https://github.com/josueleonn/projecthotel/assets/147575712/9829805a-c9ff-47a1-8583-a59baea7f7ef)
 
+EJECUCIÓN
+
+![image](https://github.com/josueleonn/projecthotel/assets/147575712/9d119b65-129c-4428-9ccc-4951dbb12288)
+
+BASE DE DATOS
+
+![image](https://github.com/josueleonn/projecthotel/assets/147575712/fea94472-b07c-4bbe-b81e-c18eb7f4b7b7)
+![image](https://github.com/josueleonn/projecthotel/assets/147575712/684139e2-dfea-4b9c-877c-4a6003edffb4)
+
+
